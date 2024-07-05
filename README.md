@@ -1,3 +1,3 @@
 # logs-graphs
 
-Project for Fortaco!
+Project for Fortaco.
