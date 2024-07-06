@@ -1,0 +1,6 @@
+timestamp,success,host,ip,packetsize,rtt,ttl
+2024-07-02T08:12:47+03:00,false,Ping result for ############ (123.45.67.89): failed to parse ping output
+2024-07-02T08:14:51+03:00,true,############,123.45.67.89,32,1ms,128
+
+1 - example of the failure ping
+2 - exampe of the successful ping
