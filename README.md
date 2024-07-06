@@ -15,10 +15,21 @@ Example of the main graph:
 
 ![newplot](https://github.com/maksim-shabunov/data-analysis/assets/174417804/278d88d0-89e4-4eaf-bbc2-b23794f2acdd)
 
+Features:
+- Both rolling lines for successful and failure pings
+- Auto-calculated rolling window for both of the rolling lines based on the amount of data in logs. (Can still be modified manually)
+- If there are more than 2 logs at the same time, their value will be averaged and shown as only 1 dot on the graph.
+- Ability to adjust the value to extend the amount of ticks on the Y-axis
+- Line for average RTT for successful pings
+- Line for the highest RTT based on successful pings rolling line
+- Hide / Show all of the dots
+
 --------------------------
 Scaled-up version:
 
 ![Cursor_zKE3r4FDx9](https://github.com/maksim-shabunov/data-analysis/assets/174417804/76d809a7-4984-4f1c-af7a-8280c3b9bf60)
+
+Shows the place on the chart with the largest RTT jumps
 
 --------------------------
 As the graph is built, the user has an option to perform data analysis, which will give a result like this: 
