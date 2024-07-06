@@ -18,7 +18,7 @@ Example of the main graph:
 Features:
 - Both rolling lines for successful and failure pings
 - Auto-calculated rolling window for both of the rolling lines based on the amount of data in logs. (Can still be modified manually)
-- If there are more than 2 logs at the same time, their value will be averaged and shown as only 1 dot on the graph.
+- If there are more than 2 logs at the same time, their value will be averaged and shown as only 1 dot on the graph
 - Ability to adjust the value to extend the amount of ticks on the Y-axis
 - Line for average RTT for successful pings
 - Line for the highest RTT based on successful pings rolling line
