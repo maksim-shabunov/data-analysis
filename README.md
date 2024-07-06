@@ -1,6 +1,5 @@
 # Data Analysis
 
-Project: Data Analysis and Visualization
 This Jupyter Notebook is designed to analyze and visualize data from logs related to success and failure ping rates over time. The primary objective is to perform a detailed analysis of the data and generate visualizations using Python.
 
 --------------------------
